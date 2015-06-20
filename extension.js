@@ -58,7 +58,7 @@
     //Mudar as configurações padrões do bot e ter certeza que elas foram carregadas corretamente
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "basicBot",
+        botName: "MidnightBot",
         language: "portuguese",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
