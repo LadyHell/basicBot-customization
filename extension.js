@@ -37,6 +37,42 @@
                 ];
         */
         
+         ball: [
+            "Os sinais apontam para sim.",
+            "Sim.",
+            "Tio lúcifer tá dizendo que sim, então a resposta é sim...",
+            "Sem dúvida.",
+            "Minhas fontes dizem que não.",
+            "Pergunte again, parça.",
+            "Meça suas perguntas, parça, eu sou malandrão",
+            "Concentre-se e pergunte novamente.",
+            "Ao meu ver acho que nao.",
+            "Definitivamente sim.",
+            "Melhor não dizer agora, Gzuis tá vendo.",
+            "Muito duvidoso.",
+            "Eeeh.. claro que não.",
+            "É certo.",
+            "Não podemos prever isso agora.",
+            "Provavelmente.",
+            "Pergunte no posto ipiranga.",
+            "A minha resposta é não.",
+            "Pelo oque eu vejo sim.",
+            "Não conte com isso.",
+            "Sim, em devido tempo.",
+            "Minhas fontes dizem que não.",
+            "Definitivamente não.",
+            "Você vai ter que esperar.",
+            "Eu tenho minhas dúvidas.",
+            "Ao meu ver.. não.",
+            "Parece bom para mim!",
+            "Quem sabe?",
+            "Depois dessa vou me cortar com faquinha de rocambole.",
+            "Provavelmente.",
+            "Você tá de brincadeixo uti me?",
+            "Seje menas.",
+            "Esqueça isso."
+            ],
+        
         bot.commands.testCommand = {
             command: ['test'], //Exemplo de comando
             rank: 'user', //user/bouncer/mod/manager
