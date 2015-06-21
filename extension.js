@@ -16,7 +16,7 @@
         bot.retrieveSettings();
 
         /*
-        bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate!',
+        bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate que foi assado no fogo do quinto dos infernos.',
                     'deu-lhe um biscoito de onda forte pra você ver macacos em cima do poste.',
                     'deu-lhe um biscoito da sorte. Pera, não tem nada escrito! :joy:',
                     'deu-lhe um pau pra você enfiar no seu cu.',
@@ -94,15 +94,15 @@
     //Mudar as configurações padrões do bot e ter certeza que elas foram carregadas corretamente
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "MidnightBot",
+        botName: "ᘛ Black Pearl Bot ᘚ",
         language: "portuguese",
-        startupCap: 1, // 1-200
-        startupVolume: 0, // 0-100
-        startupEmoji: false, // true ou false
-        chatLink: "https://rawgit.com/" + fork + "/basicBot/master/lang/pt.json",
-        maximumAfk: 120,
-        afkRemoval: true,
-        maximumDc: 60,
+        startupCap: 10, // 1-200
+        startupVolume: 10, // 0-100
+        startupEmoji: true, // true or false
+        chatLink: "https://rawgit.com/PearlNegra/BlackPearlBot/master/lang/pt.json",
+        maximumAfk: 60,
+        afkRemoval: false,
+        maximumDc: 30,
         bouncerPlus: true,
         blacklistEnabled: true,
         lockdownEnabled: false,
@@ -110,11 +110,11 @@
         maximumLocktime: 10,
         cycleGuard: true,
         maximumCycletime: 10,
-        voteSkip: false,
+        voteSkip: true,
         voteSkipLimit: 10,
         timeGuard: true,
-        maximumSongLength: 10,
-        autodisable: true,
+        maximumSongLength: 07,
+        autodisable: false,
         commandCooldown: 30,
         usercommandsEnabled: true,
         lockskipPosition: 3,
@@ -131,14 +131,14 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Mensagem temporária do dia",
-        filterChat: true,
+        motd: "Olá Marilene",
+        filterChat: false,
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: null,
+        rulesLink: "http://bit.ly/BPRules",
         themeLink: null,
-        fbLink: null,
+        fbLink: "NOSSA PAGINA: https://www.facebook.com/Trisstep",
         youtubeLink: null,
         website: null,
         intervalMessages: [],
@@ -152,6 +152,6 @@
     }));
 
     //Inicia o bot e o extende quando for completamente carregado.
-    $.getScript("https://rawgit.com/" + fork + "/basicBot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/blackpearl/basicBot/master/basicBot.js", extend);
 
 }).call(this);
