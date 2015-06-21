@@ -16,14 +16,13 @@
         bot.retrieveSettings();
 
         /*
-        bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate que foi assado no fogo do quinto dos infernos.',
+        bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate abençoado por Satã. :v',
                     'deu-lhe um biscoito de onda forte pra você ver macacos em cima do poste.',
                     'deu-lhe um biscoito da sorte. Pera, não tem nada escrito! :joy:',
                     'deu-lhe um pau pra você enfiar no seu cu.',
-                    'deu-lhe um biscoito de chocolate abençoado por Satã.',
                     'deu-lhe um enorme biscoito. Quando o toca, ele se duplica num outro biscoito... queima gzuis!',
                     'deu-lhe um biscoito da sorte, tem escrito: "Manda nudes"',
-                    'deu-lhe um biscoito de "pó" pra você cheirar, UHEAUEHAUHEAUHE.
+                    'deu-lhe um pedra de crack. UHEAUEHAUHEAUHE.
                     'deu-lhe um biscoito da sorte, tem escrito: "Venda sua alma."',
                     'deu-lhe um biscoito da sorte, tem escrito: "Suprise modafocaa."',
                     'deu-lhe um biscoito da sorte, tem escrito: "Vai se prostituir pra comprar x-burguer que é melhor pra você."',
@@ -32,8 +31,6 @@
                     'deu-lhe um biscoito de ouro, mas não dá pra comer porque é ouro, burraum.',
                     'deu-lhe um dicionário, uma caneta e um livro pra você aprender a escrever direito, filho da puta.',
                     'deu-lhe um biscoito de arco-íris feito com amor :heart: ~ai que coisa gay.',
-                    'deu-lhe um biscoito que foi esquecido na chuva. Se eu você você, eu não comeria esse biscoito. :eyes:',
-                    'te trouxe biscoitos fresquinhos... parecem ser deliciosos!!'
                 ];
         */
         
