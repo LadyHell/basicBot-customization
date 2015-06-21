@@ -152,6 +152,6 @@
     }));
 
     //Inicia o bot e o extende quando for completamente carregado.
-    $.getScript("https://rawgit.com/blackpearl/basicBot/master/basicBot.js", extend);
+    $.getScript("https://rawgit.com/ladyhell/basicBot/master/basicBot.js", extend);
 
 }).call(this);
