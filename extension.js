@@ -20,14 +20,13 @@
                     'deu-lhe um biscoito de onda forte pra você ver macacos em cima do poste.',
                     'deu-lhe um biscoito da sorte. Pera, não tem nada escrito! :joy:',
                     'deu-lhe um pau pra você enfiar no seu cu.',
-                    'deu-lhe um enorme biscoito. Quando o toca, ele se duplica num outro biscoito... queima gzuis!',
                     'deu-lhe um biscoito da sorte, tem escrito: "Manda nudes"',
                     'deu-lhe um pedra de crack. UHEAUEHAUHEAUHE.
                     'deu-lhe um biscoito da sorte, tem escrito: "Venda sua alma."',
                     'deu-lhe um biscoito da sorte, tem escrito: "Suprise modafocaa."',
                     'deu-lhe um biscoito da sorte, tem escrito: "Vai se prostituir pra comprar x-burguer que é melhor pra você."',
                     'deu-lhe um biscoito da sorte, tem escrito: "Se você mecher o quadril, vão achar que você é funkeiro. UAEHUAHEAUHE',
-                    'deu-lhe um biscoito da sorte, tem escrito: "Eu te amo <3"',
+                    'deu-lhe um biscoito da sorte, tem escrito: "Eu te amo <3 ~mentira"',
                     'deu-lhe um biscoito de ouro, mas não dá pra comer porque é ouro, burraum.',
                     'deu-lhe um dicionário, uma caneta e um livro pra você aprender a escrever direito, filho da puta.',
                     'deu-lhe um biscoito de arco-íris feito com amor :heart: ~ai que coisa gay.',
@@ -47,7 +46,7 @@
             "Definitivamente sim.",
             "Melhor não dizer agora, Gzuis tá vendo.",
             "Muito duvidoso.",
-            "Eeeh.. claro que não.",
+            "Depois dessa vou virar funkeiro.",
             "É certo.",
             "Não podemos prever isso agora.",
             "Provavelmente.",
@@ -67,7 +66,7 @@
             "Provavelmente.",
             "Você tá de brincadeixo uti me?",
             "Seje menas.",
-            "Esqueça isso."
+            "Só vou responder se você mandar nudes."
             ],
         
         bot.commands.testCommand = {
