@@ -90,7 +90,7 @@
     //Mudar as configurações padrões do bot e ter certeza que elas foram carregadas corretamente
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "ᘛ Black Pearl Bot ᘚ",
+        botName: "☢ MidnightBOT ☢",
         language: "portuguese",
         startupCap: 10, // 1-200
         startupVolume: 10, // 0-100
