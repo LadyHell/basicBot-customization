@@ -17,16 +17,16 @@
 
         /*
         bot.commands.cookieCommand.cookies =['deu-lhe um biscoito de chocolate abençoado por Satã. :v',
-                    'deu-lhe um biscoito de onda forte pra você ver macacos em cima do poste.',
-                    'deu-lhe um biscoito da sorte. Pera, não tem nada escrito! :joy:',
+                    'deu-lhe um bilhete, tem escrito: "Seje menas".',
+                    'deu-lhe um bilhete, tem escrito: "Aprenda a escrever, seu filho da puta".',
                     'deu-lhe um pau pra você enfiar no seu cu.',
                     'deu-lhe um biscoito da sorte, tem escrito: "Manda nudes"',
-                    'deu-lhe um pedra de crack. UHEAUEHAUHEAUHE.
-                    'deu-lhe um biscoito da sorte, tem escrito: "Venda sua alma."',
-                    'deu-lhe um biscoito da sorte, tem escrito: "Suprise modafocaa."',
+                    'deu-lhe um pedra de crack. UHEAUEHAUHEAUHE.',
+                    'deu-lhe um biscoito da sorte, tem escrito: "Venda sua alma".',
+                    'deu-lhe um biscoito da sorte, tem escrito: "Suprise modafoca".',
                     'deu-lhe um biscoito da sorte, tem escrito: "Vai se prostituir pra comprar x-burguer que é melhor pra você."',
                     'deu-lhe um biscoito da sorte, tem escrito: "Se você mecher o quadril, vão achar que você é funkeiro. UAEHUAHEAUHE',
-                    'deu-lhe um biscoito da sorte, tem escrito: "Eu te amo <3 ~mentira"',
+                    'deu-lhe um biscoito da sorte, tem escrito: "Você é maluco ou idiota?".',
                     'deu-lhe um biscoito de ouro, mas não dá pra comer porque é ouro, burraum.',
                     'deu-lhe um dicionário, uma caneta e um livro pra você aprender a escrever direito, filho da puta.',
                     'deu-lhe um biscoito de arco-íris feito com amor :heart: ~ai que coisa gay.',
@@ -64,9 +64,8 @@
             "Quem sabe?",
             "Depois dessa vou me cortar com faquinha de rocambole.",
             "Provavelmente.",
-            "Você tá de brincadeixo uti me?",
+            "Você está de brincadeixo com minha face?",
             "Seje menas.",
-            "Só vou responder se você mandar nudes."
             ],
         
         bot.commands.testCommand = {
